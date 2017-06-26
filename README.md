@@ -27,8 +27,14 @@ AspNet Core 2.0 + EF +Auofac+ SqlServer2012 + Bootstrap + Layer + ace admin
 
 
 参考资料：
+
 http://www.cnblogs.com/flyfish2012/p/3779810.html
+
 http://docs.autofac.org/en/latest/integration/webapi.html
+
 http://www.cnblogs.com/gamehiboy/p/5176618.html
+
 https://docs.microsoft.com/en-us/ef/core/index
+
 http://docs.autofac.org/en/latest/integration/webapi.html
+
