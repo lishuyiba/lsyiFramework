@@ -24,3 +24,11 @@ AspNet Core 2.0 + EF +Auofac+ SqlServer2012 + Bootstrap + Layer + ace admin
 
 
 数据库连接字符串没有整合到appsettings.json里面，被写死在lsy.Data→Context→LsyiObjectContext.cs 里面，朋友们请自行修改。
+
+
+参考资料：
+http://www.cnblogs.com/flyfish2012/p/3779810.html
+http://docs.autofac.org/en/latest/integration/webapi.html
+http://www.cnblogs.com/gamehiboy/p/5176618.html
+https://docs.microsoft.com/en-us/ef/core/index
+http://docs.autofac.org/en/latest/integration/webapi.html
