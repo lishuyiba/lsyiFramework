@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\lsyi.Autofac\lsyi.Autofac.csproj" />
+    <ProjectReference Include="..\lsyi.Core\lsyi.Core.csproj" />
+    <ProjectReference Include="..\lsyi.Data\lsyi.Data.csproj" />
+    <ProjectReference Include="..\lsyi.Models\lsyi.Models.csproj" />
+  </ItemGroup>
+
+</Project>

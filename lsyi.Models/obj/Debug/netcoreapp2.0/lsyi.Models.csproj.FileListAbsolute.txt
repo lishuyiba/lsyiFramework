@@ -1,0 +1,7 @@
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\bin\Debug\netcoreapp2.0\lsyi.Models.deps.json
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\bin\Debug\netcoreapp2.0\lsyi.Models.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\bin\Debug\netcoreapp2.0\lsyi.Models.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\obj\Debug\netcoreapp2.0\lsyi.Models.AssemblyInfo.cs
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\obj\Debug\netcoreapp2.0\lsyi.Models.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\obj\Debug\netcoreapp2.0\lsyi.Models.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Models\obj\Debug\netcoreapp2.0\lsyi.Models.csprojResolveAssemblyReference.cache

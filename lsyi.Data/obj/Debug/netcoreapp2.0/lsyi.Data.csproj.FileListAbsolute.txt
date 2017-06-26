@@ -1,0 +1,13 @@
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Data.deps.json
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Data.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Data.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\obj\Debug\netcoreapp2.0\lsyi.Data.AssemblyInfo.cs
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\obj\Debug\netcoreapp2.0\lsyi.Data.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\obj\Debug\netcoreapp2.0\lsyi.Data.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\obj\Debug\netcoreapp2.0\lsyi.Data.csprojResolveAssemblyReference.cache
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Models.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Models.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Autofac.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Core.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Autofac.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Data\bin\Debug\netcoreapp2.0\lsyi.Core.pdb

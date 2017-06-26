@@ -1,0 +1,7 @@
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\bin\Debug\netcoreapp2.0\lsyi.Ninject.deps.json
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\bin\Debug\netcoreapp2.0\lsyi.Ninject.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\bin\Debug\netcoreapp2.0\lsyi.Ninject.pdb
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\obj\Debug\netcoreapp2.0\lsyi.Ninject.csprojResolveAssemblyReference.cache
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\obj\Debug\netcoreapp2.0\lsyi.Ninject.AssemblyInfo.cs
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\obj\Debug\netcoreapp2.0\lsyi.Ninject.dll
+C:\Users\lsy\Documents\Visual Studio 2017\Projects\lsyiFramework\lsyi.Ninject\obj\Debug\netcoreapp2.0\lsyi.Ninject.pdb
